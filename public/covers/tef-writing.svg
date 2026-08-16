@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#F5F2EC"/>
+<rect x="34" y="34" width="732" height="932" fill="none" stroke="#DAD5CD" stroke-width="2"/>
+<text x="54" y="92" font-family="Arial, sans-serif" font-size="14" letter-spacing="4" fill="#8A2938">TEF · WRITING</text>
+<line x1="54" x2="746" y1="132" y2="132" stroke="#DAD5CD" stroke-width="2"/>
+<text x="54" y="270" font-family="Georgia, serif" font-size="54" fill="#171719">Écrire</text>
+<text x="54" y="338" font-family="Georgia, serif" font-size="54" fill="#171719">avec structure.</text>
+<circle cx="655" cy="746" r="74" fill="#17283B"/>
+<text x="655" y="755" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#F5F2EC">the français</text>
+<text x="655" y="783" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#F5F2EC">hub.</text>
+<text x="54" y="924" font-family="Arial, sans-serif" font-size="14" letter-spacing="3" fill="#706E6A">B2+</text>
+</svg>
