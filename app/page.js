@@ -57,13 +57,13 @@ export default async function Home() {
 
           <div className={styles.examGrid}>
             {exams.map((exam, index) => (
-              <a className={styles.examCard} key={exam.name} href={`#collection-${exam.name.toLowerCase()}`}>
+              <a className={styles.examCard} key={exam.name} href="#collection">
                 <div>
                   <div className={styles.examNo}>0{index + 1}</div>
                   <div className={styles.examName}>{exam.name}</div>
                   <p>{exam.copy}</p>
                 </div>
-                <span className={styles.examArrow}>↗</span>
+                <span className={styles.examArrow}>↘</span>
               </a>
             ))}
           </div>
