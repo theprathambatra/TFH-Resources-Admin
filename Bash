@@ -1,0 +1,26 @@
+
+> tfh-resources-microsite@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.23
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.5s
+ ○ Compiling / ...
+ ✓ Compiled / in 973ms (655 modules)
+ GET / 200 in 2981ms
+ ✓ Compiled /resources/[slug] in 414ms (671 modules)
+ GET /resources/abc 200 in 1740ms
+ ✓ Compiled /api/create-order in 218ms (693 modules)
+ POST /api/create-order 200 in 2407ms
+ ✓ Compiled /api/verify-payment in 210ms (696 modules)
+ POST /api/verify-payment 200 in 5000ms
+ ✓ Compiled /download/[token] in 242ms (699 modules)
+ GET /download/e0c72f15dbb2de61122dd93de3a9d754e18a81e92b4a7cf397031acb7ae11cc5 200 in 2839ms
+ ✓ Compiled /api/download in 241ms (701 modules)
+ GET /api/download?token=e0c72f15dbb2de61122dd93de3a9d754e18a81e92b4a7cf397031acb7ae11cc5&file=bf2211b5-0213-41ea-a8ab-79f5c4be90bf 302 in 2780ms
+ GET /download/38a220a092242f4cfd06ad584c37308a43df4293286e062d8937cf8b2f80ab24 200 in 2062ms
+ GET /download/38a220a092242f4cfd06ad584c37308a43df4293286e062d8937cf8b2f80ab24 200 in 1665ms
