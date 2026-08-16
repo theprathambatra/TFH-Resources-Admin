@@ -147,7 +147,7 @@ export default function AdminApp() {
     <main className="admin-shell">
       <header className="admin-topbar">
         <div><div className="wordmark">the français hub.</div><span>Resource Studio</span></div>
-        <div className="admin-links"><a href="/" target="_blank">View store ↗</a><button onClick={logout}>Sign out</button></div>
+        <div className="admin-links"><a href="/admin/batches">Manage Batches</a><a href="/" target="_blank">View store ↗</a><button onClick={logout}>Sign out</button></div>
       </header>
 
       {editing ? (
